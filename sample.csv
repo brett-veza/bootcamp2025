@@ -1,0 +1,11 @@
+user_id,display_name,email,active,department,team,job_title,role,role_permissions
+emp101,John Smith,john.smith@example.com,TRUE,Engineering,Backend,Senior Developer,Developer Lead,"read_all,write_backend,deploy_backend"
+emp101,John Smith,john.smith@example.com,TRUE,Engineering,Architecture,Senior Developer,Architecture Committee,"approve_designs,modify_architecture"
+emp102,Jane Doe,jane.doe@example.com,TRUE,Engineering,Frontend,UI Developer,Frontend Developer,"read_all,write_frontend,deploy_frontend"
+emp103,Robert Johnson,robert.j@example.com,TRUE,Product,Product Management,Product Owner,Product Manager,"read_all,create_requirements,approve_features"
+emp103,Robert Johnson,robert.j@example.com,TRUE,Product,UX Research,Product Owner,User Researcher,"conduct_research,analyze_results"
+emp104,Maria Garcia,maria.g@example.com,TRUE,Marketing,Content,Marketing Specialist,Content Creator,"read_marketing,write_content"
+emp104,Maria Garcia,maria.g@example.com,TRUE,Marketing,Social,Marketing Specialist,Social Media Manager,"post_social,analyze_metrics"
+emp105,David Lee,david.l@example.com,TRUE,Finance,Accounting,Finance Manager,Financial Controller,"approve_expenses,manage_budgets,generate_reports"
+emp106,Sarah Wilson,sarah.w@example.com,TRUE,HR,Recruiting,HR Specialist,Recruiter,"post_jobs,review_applications,conduct_interviews"
+emp107,Michael Brown,michael.b@example.com,TRUE,Sales,Enterprise Sales,Sales Executive,Account Manager,"manage_clients,create_proposals,close_deals"
